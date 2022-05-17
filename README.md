@@ -1,2 +1,4 @@
 # stem.training
-##Day one
+## Day one
+## learning markdown
+## installing pythion
